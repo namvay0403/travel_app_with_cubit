@@ -1,18 +1,4 @@
-# travel_app_with_cubit
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+From this tutorial we build a flutter cubit / bloc state management app. We will build it step by step. We will also build the ui and do api request. We will cover http get request and load the data using flutter cubit  or bloc. We will also see how to use blocprovider and blocbuilder for state update. This covers building the model and API request. (not speed code, not the flutter way). 
+So this is a travel app.
 
 References: https://www.youtube.com/watch?v=x4DydJKVvQk&ab_channel=dbestech
